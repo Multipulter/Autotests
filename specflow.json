@@ -1,0 +1,8 @@
+﻿{
+  "cucumber-messages": {
+    "enabled": true,
+    "allowDebugGeneratedFiles": true,
+    "allowRowTests": true,
+    "": true
+  }
+}

@@ -1,0 +1,65 @@
+--- stableConnectionStrings.config
++++ stableConnectionStrings.config
+@@ -1,20 +1,21 @@
+ ﻿<?xml version="1.0"?>
+ <connectionStrings>
+-	<add name="BonusActionConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="ProductsConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="DepartmentStructureConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="UsersConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="DeliveryConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="EmployeeConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="OrdersConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="SessionConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="InventoryControlConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="ClientConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="ProductionConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="LogConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="CashBoxConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="FinanceToolsIntegrationConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
+-	<add name="QueueConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="CallConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="FinanceControlConnection" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="BonusActionConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="ProductsConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="DepartmentStructureConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="UsersConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="DeliveryConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="EmployeeConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="OrdersConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="SessionConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="InventoryControlConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="ClientConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="ProductionConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="LogConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="CashBoxConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="FinanceToolsIntegrationConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;"/>
++	<add name="QueueConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="CallConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="FinanceControlConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++  <add name="BusinessOperationsConnection" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+ 
+@@ -20,12 +21,12 @@
+ 
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+-	<add name="WarehouseShard_1" connectionString="Server=localhost;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
++	<add name="WarehouseShard_1" connectionString="Server=138.201.126.75;Port=5432;Database=buzzolls_stable;User Id=projectvadmin; Password=9182kJKjk2hfj2!!jkdf3;" />
+ </connectionStrings>
+\ No newline at end of file
